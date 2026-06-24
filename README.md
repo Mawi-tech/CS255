@@ -1,13 +1,16 @@
-# CS255<br/>
-System Analysis and Design Course<br/>
-•	Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?<br/>
-DriverPass is a system aimed at helping aspiring drivers to pass their drivers test by giving informing lessons regarding driving. Customers can choose a certain package and then can set up an appointment with an assigned driver. <br/>
-•	What did you do particularly well?<br/>
-I felt like I did particularly well was designing the different types of diagrams. It seemed like a challenging but satisfying experience connecting the different components of the system. <br/>
-•	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?<br/>
-I would like to revise the purpose of the project. I believe I could have gone into more detail on the whole reason why they want to develop DriverPass.<br/>
-•	How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?<br/>
-I had made sure I highlighted the important needs of the user during the interview such as being able to access the system from anywhere or being able to have access to all the accounts just in case of having to remove a user from the system. It is important to consider the user’s needs when designing because they are the ones who are mainly using the system. It is going to cause frustration and people refuse to use the system if you do not consider their needs. <br/>
-•	How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?<br/>
-The approach I take when designing software is a very strategic approach that welcomes iterative development, to ensure flexibility with the system. Especially in today’s society that is constantly evolving at a rapid pace. I first would like to identify the different users and figure out how they may move through the system. Some techniques and strategies I would use in the future to analyze and design a system are to first start simple and then branch off into more complex processes instead of trying to implement everything at once. 
+# CS255: System Analysis and Design
 
+## Overview
+This project involved analyzing requirements and designing a system for DriverPass, a company aimed at helping aspiring drivers pass their driving test by providing instructional lessons. Customers can choose a lesson package and then schedule an appointment with an assigned driver.
+
+## Approach
+I took a strategic, iterative approach to designing the system to keep it flexible as requirements evolved, identifying the system's different users first and figuring out how each one would move through the system. From there, I focused on starting with simple processes and branching off into more complex ones, rather than trying to design everything at once. Designing the different types of diagrams to connect the system's components was the most engaging part of the process.
+
+## Reflection
+Interpreting and designing around user needs was central to this project. I made sure to highlight requirements like being able to access the system from anywhere and giving administrators access to all accounts so they could remove a user if needed. Considering user needs during design matters because users are the ones who rely on the system daily, and overlooking their needs leads to frustration and causes people to abandon the system. Looking back, I would revise the project's purpose statement to go into more detail on why DriverPass needed to be developed in the first place.
+
+## Skills Demonstrated
+- Requirements analysis and system design
+- UML and system diagramming
+- Iterative design methodology
+- User-centered design
